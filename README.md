@@ -58,7 +58,7 @@ The machine learning models were evaluated using:
 
 - `DSA210.ipynb`: Main notebook
 - `Project Proposal.pdf`: Project proposal
-- `Final_Report.md`: Final report
+- `DSA210 Final Report.pdf`: Final report
 - `requirements.txt`: Python dependencies
 - `AI_ASSISTANCE.md`: AI assistance disclosure
 

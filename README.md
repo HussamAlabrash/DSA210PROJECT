@@ -64,8 +64,21 @@ The machine learning models were evaluated using:
 
 ## How to Reproduce
 
-Clone the repository:
+This project was mainly developed and executed using Google Colab.
+
+To reproduce the analysis:
+
+1. Open `DSA210.ipynb` using Google Colab.
+2. Run the notebook cells from top to bottom.
+3. Upload the required CSV datasets when prompted.
+
+Required datasets:
+
+- `Middle_East_Economic_Data_1990_2024_with_Oil.csv`
+- `MiddleEast_2015-2024_Nov01.csv`
+
+If running locally instead of Google Colab:
 
 ```bash
-git clone https://github.com/HussamAlabrash/DSA210PROJECT.git
-cd DSA210PROJECT
+pip install -r requirements.txt
+jupyter notebook DSA210.ipynb
